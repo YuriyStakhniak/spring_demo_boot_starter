@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=\
+  education.cursor.demobootstarter.internal.ProfileResolverEnvironmentPostProcessor
